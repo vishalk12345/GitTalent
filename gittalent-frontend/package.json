@@ -41,7 +41,11 @@
     "tslint": "3.13.0",
     "ts-helpers": "1.1.2",
     "ts-node": "1.2.1",
-    "typescript": "2.2.0",
+    "typescript": "~2.2.0",
     "zone.js": "0.8.4"
+  },
+  
+  "devDependencies": {
+    "@angular/cli": "1.0.0"
   }
 }
